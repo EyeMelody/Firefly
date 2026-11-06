@@ -51,8 +51,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://blog.eyemelody.top",
 
 	// 站点描述
-	description:
-		"记录生活，记录你我",
+	description: "记录生活，记录你我",
 
 	// 站点关键词
 	keywords: [
@@ -90,10 +89,10 @@ export const siteConfig: SiteConfig = {
 	// Favicon 配置
 	// 如果启用了OpenGraph图片功能，数组中需要包含png格式的favicon图标
 	favicon: [
-	{
-		src: "/favicon/firefly-32.png"
-	}
-],
+		{
+			src: "/favicon/firefly-32.png",
+		},
+	],
 
 	// 导航栏配置
 	navbar: {
@@ -210,7 +209,6 @@ export const siteConfig: SiteConfig = {
 			// false：封面按卡片内边距内缩，上、左、右留出间距，四角都是圆角
 			coverFullWidth: false,
 		},
-		allowSwitch: true
 	},
 
 	// 分页配置
@@ -361,8 +359,4 @@ export const siteConfig: SiteConfig = {
 
 	// 页面开关配置，在本配置文件顶部pages定义
 	pages,
-	generateOgImages: true,
-	outdatedThreshold: 30,
-	showLastModified: true,
-	sharePoster: true
 };

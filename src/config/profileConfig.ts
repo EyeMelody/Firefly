@@ -21,11 +21,11 @@ export const profileConfig: ProfileConfig = {
 	// `pnpm add @iconify-json/<icon-set-name>`
 	// showName: true 时显示图标和名称，false 时只显示图标
 	links: [
-	{
-		name: "GitHub",
-		icon: "fa7-brands:github",
-		url: "https://github.com/EyeMelody",
-		showName: false
-	}
-],
+		{
+			name: "GitHub",
+			icon: "fa7-brands:github",
+			url: "https://github.com/EyeMelody",
+			showName: false,
+		},
+	],
 };

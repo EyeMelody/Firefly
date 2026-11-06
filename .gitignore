@@ -47,3 +47,7 @@ package/
 .codex*
 .claude
 .mimocode
+
+# Firefly Config Manager backups
+.firefly-config-manager-backups/
+firefly-config-manager-backups/
