@@ -36,32 +36,81 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	 * ],
 	 */
 	src: {
-		// 桌面背景图片（支持单张或多张随机）
-		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
-		],
-		// 移动背景图片（支持单张或多张随机）
-		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
-		],
-		// 背景视频播放地址
-		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
-		// 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
-		// playerUrl: "/assets/videos/firefly.mp4",
-		playerUrl: "https://bed.twoleaf.cn/file/1785658612716_firefly.mp4",
-	},
+	desktop: [
+		"assets/images/DesktopWallpaper/D1.png",
+		"assets/images/DesktopWallpaper/D2.png",
+		"assets/images/DesktopWallpaper/D3.png",
+		"assets/images/DesktopWallpaper/D4.png",
+		"assets/images/DesktopWallpaper/D5.png",
+		"assets/images/DesktopWallpaper/D6.png",
+		"assets/images/DesktopWallpaper/D7.png",
+		"assets/images/DesktopWallpaper/D8.png",
+		"assets/images/DesktopWallpaper/D9.png",
+		"assets/images/DesktopWallpaper/D10.png",
+		"assets/images/DesktopWallpaper/D11.png",
+		"assets/images/DesktopWallpaper/D12.png",
+		"assets/images/DesktopWallpaper/D13.png",
+		"assets/images/DesktopWallpaper/D14.png",
+		"assets/images/DesktopWallpaper/D15.png",
+		"assets/images/DesktopWallpaper/D16.png",
+		"assets/images/DesktopWallpaper/D17.png",
+		"assets/images/DesktopWallpaper/D18.png",
+		"assets/images/DesktopWallpaper/D19.png",
+		"assets/images/DesktopWallpaper/D20.png",
+		"assets/images/DesktopWallpaper/D21.png",
+		"assets/images/DesktopWallpaper/D22.png",
+		"assets/images/DesktopWallpaper/D23.png",
+		"assets/images/DesktopWallpaper/D24.png",
+		"assets/images/DesktopWallpaper/D25.png",
+		"assets/images/DesktopWallpaper/D26.png",
+		"assets/images/DesktopWallpaper/D27.png",
+		"assets/images/DesktopWallpaper/D28.png",
+		"assets/images/DesktopWallpaper/D29.png",
+		"assets/images/DesktopWallpaper/D30.png",
+		"assets/images/DesktopWallpaper/D31.png"
+	],
+	mobile: [
+		"assets/images/MobileWallpaper/M1.png",
+		"assets/images/MobileWallpaper/M2.png",
+		"assets/images/MobileWallpaper/M3.png",
+		"assets/images/MobileWallpaper/M4.png",
+		"assets/images/MobileWallpaper/M5.png",
+		"assets/images/MobileWallpaper/M6.png",
+		"assets/images/MobileWallpaper/M7.png",
+		"assets/images/MobileWallpaper/M8.png",
+		"assets/images/MobileWallpaper/M9.png",
+		"assets/images/MobileWallpaper/M10.png",
+		"assets/images/MobileWallpaper/M11.png",
+		"assets/images/MobileWallpaper/M12.png",
+		"assets/images/MobileWallpaper/M13.png",
+		"assets/images/MobileWallpaper/M14.png",
+		"assets/images/MobileWallpaper/M15.png",
+		"assets/images/MobileWallpaper/M16.png",
+		"assets/images/MobileWallpaper/M17.png",
+		"assets/images/MobileWallpaper/M18.png",
+		"assets/images/MobileWallpaper/M19.png",
+		"assets/images/MobileWallpaper/M20.png",
+		"assets/images/MobileWallpaper/M21.png",
+		"assets/images/MobileWallpaper/M22.png",
+		"assets/images/MobileWallpaper/M23.png",
+		"assets/images/MobileWallpaper/M24.png",
+		"assets/images/MobileWallpaper/M25.png",
+		"assets/images/MobileWallpaper/M26.png",
+		"assets/images/MobileWallpaper/M27.png",
+		"assets/images/MobileWallpaper/M28.png",
+		"assets/images/MobileWallpaper/M29.png",
+		"assets/images/MobileWallpaper/M30.png",
+		"assets/images/MobileWallpaper/M31.png",
+		"assets/images/MobileWallpaper/M32.png",
+		"assets/images/MobileWallpaper/M33.png",
+		"assets/images/MobileWallpaper/M34.png",
+		"assets/images/MobileWallpaper/M35.png",
+		"assets/images/MobileWallpaper/M36.png",
+		"assets/images/MobileWallpaper/M37.png",
+		"assets/images/MobileWallpaper/M38.png"
+	],
+	playerUrl: "https://bed.twoleaf.cn/file/1785658612716_firefly.mp4"
+},
 	// 横幅壁纸和全屏壁纸共享配置
 	common: {
 		// 壁纸遮罩暗度，让横幅文字显示更清晰，0-1之间，值越大越暗
@@ -73,18 +122,31 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "梅洛缇のブログ",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
-			],
+	"少女は涙と共に。少年は死と共に。",
+	"死にたくない",
+	"忘れません",
+	"少佐は俺たちのことも 忘れないでいてくれますか？",
+	"死ぬ時まで戦いきって 生き抜いてやる それが俺たちの戦う理由で誇りだ",
+	"絶望と希望は同じものだよ 望むけど かなわない その表と裏に 違う名がついているだけだ",
+	"先に行きます 少佐",
+	"最後に見るのが これなら 悪くねえかもな",
+	"いつか 俺たちが 行き着いた場所まで来たら 花でも供えてくれませんか",
+	"戦おう この身の命運 尽き果てる その最後の瞬間まで",
+	"お互い よく頑張ったな",
+	"たとえ 力及ばず死ぬとしても それまでは戦い抜きたい",
+	"夢を見るのは 子供の特権だ",
+	"たとえ 力及ばなかったとしても 諦めて ひざを折るような ぶざまはしない 命尽き果てる その最期の瞬間まで 投げ出すことなく戦い抜く",
+	"「忘れないで」と 言われましたから",
+	"あの者が進むには それに ふさわしい景色がある",
+	"あの者の行く道は そなたが先に たどった道じゃ",
+	"戦おう 彼らが行き着いた 最後まで進み続けた者しか たどりつけない場所に行き着くまで",
+	"これからは… 私も一緒に戦います"
+],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
 			typewriter: {
@@ -175,6 +237,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 注意：导航栏子菜单与浮动面板始终保留毛玻璃，模糊度跟随此项但有最小值
 			blur: 12,
 		},
+		carousel: {
+	enable: true,
+	switchable: true,
+	interval: 30
+}
 	},
 	// 覆盖透明覆盖模式特有配置
 	overlay: {
@@ -213,4 +280,5 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 		},
 	},
+	switchable: true
 };
