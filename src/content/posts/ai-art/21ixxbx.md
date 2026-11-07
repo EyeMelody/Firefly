@@ -1,8 +1,8 @@
 ---
-title: "来点车万，顺便分享些思路，不给Prompt，只给思路。"
+title: "来点车万"
 published: 2026-10-10
 updated: 2026-11-07
-description: "来点车万，顺便分享些思路，不给Prompt，只给思路。"
+description: "来点车万"
 image: "./images/21ixxbx/01.png"
 coverInPost: false
 tags: ["风格参考"]
@@ -11,6 +11,8 @@ lang: "zh-CN"
 author: "石乐志"
 sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&attaContentID=f9232cbc79fa46a9953fefb1d8da623e&businessType=2&contentID=21ixxbx&inviteCode=2PTqaQA04h1&openSource=2&jumpInfo=ClDQl6LlM6KU83IM2ROXaKHisTnnGFYYH7R5TUeKfjIBgDJGlVvQmdtWlahHWkZYoGkNd1yqFIumKNHoi%2B04CN%2B7%2BhwjSUddl3pRZCOLfnLv4BIDdnAx"
 ---
+来点车万，顺便分享些思路，不给Prompt，只给思路。
+
 P1《冴月麟·光污染》：没啥技术含量，逆光、辉光、色散全部拉满，怎么光污染怎么来。
 
 P2《倒影》：简单玩了个类似多重曝光的倒影。上面是人物，下面借水面叠出另一层建筑空间，不追求真实物理反射。
@@ -65,32 +67,19 @@ P13《采蘑菇的小女孩》：框架式，欧式卷草纹拱窗负责分区�
 
 P14《光》：纯粹玩平面和物理概念。三棱镜负形、白光入射、七彩色散，再用环形轨迹和混沌丝带组织画面。没别的。
 
----
-
+[grid]
 ![图片1](./images/21ixxbx/01.png)
-
 ![图片2](./images/21ixxbx/02.png)
-
 ![图片3](./images/21ixxbx/03.png)
-
 ![图片4](./images/21ixxbx/04.png)
-
 ![图片5](./images/21ixxbx/05.png)
-
 ![图片6](./images/21ixxbx/06.png)
-
 ![图片7](./images/21ixxbx/07.png)
-
 ![图片8](./images/21ixxbx/08.png)
-
 ![图片9](./images/21ixxbx/09.png)
-
 ![图片10](./images/21ixxbx/10.png)
-
 ![图片11](./images/21ixxbx/11.png)
-
 ![图片12](./images/21ixxbx/12.png)
-
 ![图片13](./images/21ixxbx/13.png)
-
 ![图片14](./images/21ixxbx/14.png)
+[/grid]

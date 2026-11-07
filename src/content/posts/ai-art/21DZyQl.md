@@ -15,14 +15,10 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 正常画面质感不错，模型知识面丰富，同时多人真滴强啊，但是使用的是8步lora所以不够准确。
 
----
-
+[grid]
 ![图片1](./images/21DZyQl/01.png)
-
 ![图片2](./images/21DZyQl/02.png)
-
 ![图片3](./images/21DZyQl/03.png)
-
 ![图片4](./images/21DZyQl/04.png)
-
 ![图片5](./images/21DZyQl/05.png)
+[/grid]

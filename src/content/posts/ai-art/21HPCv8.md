@@ -15,12 +15,9 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 你知道的，Qwen Image 2.1是我兄弟，我们将并肩处理掉不少图像生成任务。我和Qwen很早就认识了，这家伙强得不可思议。我认为我们组队可以产生很好的化学反应。有时候做出决定很难，经过许多个日夜的思考，我决定把天赋带到开源社区，我已经迫不及待使用Qwen2.1的图像编辑了。至于Qwen2511、Kilen2 9b、Kilen2 4b，还有GPT Image 2.5，祝它们一切顺利。
 
----
-
+[grid]
 ![图片1](./images/21HPCv8/01.png)
-
 ![图片2](./images/21HPCv8/02.png)
-
 ![图片3](./images/21HPCv8/03.png)
-
 ![图片4](./images/21HPCv8/04.png)
+[/grid]

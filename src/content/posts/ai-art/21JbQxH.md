@@ -13,10 +13,8 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 ---
 （指显卡是万丽雪狐）
 
----
-
+[grid]
 ![图片1](./images/21JbQxH/01.png)
-
 ![图片2](./images/21JbQxH/02.png)
-
 ![图片3](./images/21JbQxH/03.png)
+[/grid]

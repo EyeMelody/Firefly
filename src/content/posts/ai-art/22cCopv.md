@@ -41,12 +41,9 @@ Anima Highres/Aesthetic Boost 0.3
 
 Remacri 0.3
 
----
-
+[grid]
 ![图片1](./images/22cCopv/01.jpg)
-
 ![图片2](./images/22cCopv/02.jpg)
-
 ![图片3](./images/22cCopv/03.png)
-
 ![图片4](./images/22cCopv/04.png)
+[/grid]

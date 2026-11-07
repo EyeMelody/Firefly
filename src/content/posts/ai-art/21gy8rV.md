@@ -15,16 +15,11 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 2.该模型图生图效果快而且好，做二次元风格类的图片，还是上手图生图吧，感觉它的风格并不明显，清一色都是SD1.5的感觉，比不了NanoBanana那种独特的质感，更不要去比Lora众多的SDXL了。
 
----
-
+[grid]
 ![图片1](./images/21gy8rV/01.png)
-
 ![图片2](./images/21gy8rV/02.png)
-
 ![图片3](./images/21gy8rV/03.png)
-
 ![图片4](./images/21gy8rV/04.png)
-
 ![图片5](./images/21gy8rV/05.png)
-
 ![图片6](./images/21gy8rV/06.png)
+[/grid]

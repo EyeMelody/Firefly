@@ -13,10 +13,8 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 ---
 闭源之力，小子。
 
----
-
+[grid]
 ![图片1](./images/22cCEky/01.jpg)
-
 ![图片2](./images/22cCEky/02.jpg)
-
 ![图片3](./images/22cCEky/03.jpg)
+[/grid]

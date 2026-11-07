@@ -23,22 +23,14 @@ masterpiece, best quality, excellent, year 2026, newest, score_9, ultra detailed
 
 有用画师lora，可以搜kieed
 
----
-
+[grid]
 ![图片1](./images/21oroyq/01.png)
-
 ![图片2](./images/21oroyq/02.png)
-
 ![图片3](./images/21oroyq/03.png)
-
 ![图片4](./images/21oroyq/04.png)
-
 ![图片5](./images/21oroyq/05.png)
-
 ![图片6](./images/21oroyq/06.png)
-
 ![图片7](./images/21oroyq/07.png)
-
 ![图片8](./images/21oroyq/08.png)
-
 ![图片9](./images/21oroyq/09.png)
+[/grid]

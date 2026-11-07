@@ -1,8 +1,8 @@
 ---
-title: "代发 作者:@云云云云云云云  模型:anima"
+title: "代发anima"
 published: 2026-09-25
 updated: 2026-11-07
-description: "代发 作者:@云云云云云云云  模型:anima"
+description: "代发anima"
 image: "./images/21TSm4X/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
@@ -17,6 +17,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 模型:anima
 
----
-
+[grid]
 ![图片1](./images/21TSm4X/01.png)
+[/grid]

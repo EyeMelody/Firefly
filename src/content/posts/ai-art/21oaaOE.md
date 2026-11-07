@@ -19,12 +19,9 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 图片4是基于1修改的，主要区别：为在第一个“圆润扁平+UI装饰”基础上，强化了角色中心、角色专属热带明亮配色、少量克制界面元素和编辑海报构图。
 
----
-
+[grid]
 ![图片1](./images/21oaaOE/01.png)
-
 ![图片2](./images/21oaaOE/02.png)
-
 ![图片3](./images/21oaaOE/03.png)
-
 ![图片4](./images/21oaaOE/04.png)
+[/grid]

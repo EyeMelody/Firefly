@@ -21,16 +21,11 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 Extra · 忆秋Ver.2上面这张是照着Lycoris的作者给的效果图改的，原Tag请自行查询 _(:зゝ∠)_
 
----
-
+[grid]
 ![图片1](./images/21c4aHK/01.jpg)
-
 ![图片2](./images/21c4aHK/02.jpg)
-
 ![图片3](./images/21c4aHK/03.jpg)
-
 ![图片4](./images/21c4aHK/04.jpg)
-
 ![图片5](./images/21c4aHK/05.jpg)
-
 ![图片6](./images/21c4aHK/06.jpg)
+[/grid]

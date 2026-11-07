@@ -1,8 +1,8 @@
 ---
-title: "作者@云云云云云云云  模型:anima 评价为夯"
+title: "云云模型anima"
 published: 2026-09-29
 updated: 2026-11-07
-description: "作者@云云云云云云云  模型:anima 评价为夯"
+description: "云云模型anima"
 image: "./images/220uYVR/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
@@ -17,8 +17,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 
 评价为夯
 
----
-
+[grid]
 ![图片1](./images/220uYVR/01.png)
-
 ![图片2](./images/220uYVR/02.png)
+[/grid]

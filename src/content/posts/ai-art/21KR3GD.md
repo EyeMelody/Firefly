@@ -17,6 +17,6 @@ lora CunnystyleV10
 
 lora domga v10.4
 
----
-
+[grid]
 ![图片1](./images/21KR3GD/01.png)
+[/grid]

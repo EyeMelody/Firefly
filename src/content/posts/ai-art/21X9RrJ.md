@@ -1,8 +1,8 @@
 ---
-title: "来波大比例图，图一为用了过审核lora图二为没用，很明显，不管如何kera 2大图就是容易坏手，也有可能是我技术力不够，…"
+title: "大比例图测试"
 published: 2026-10-27
 updated: 2026-11-07
-description: "来波大比例图，图一为用了过审核lora图二为没用，很明显，不管如何kera 2大图就是容易坏手，也有可能是我技术力不够，…"
+description: "大比例图测试"
 image: "./images/21X9RrJ/01.png"
 coverInPost: false
 tags: ["风格参考","Krea 2"]
@@ -13,10 +13,8 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 ---
 来波大比例图，图一为用了过审核lora图二为没用，很明显，不管如何kera 2大图就是容易坏手，也有可能是我技术力不够，再附一张我之前画的大图
 
----
-
+[grid]
 ![图片1](./images/21X9RrJ/01.png)
-
 ![图片2](./images/21X9RrJ/02.png)
-
 ![图片3](./images/21X9RrJ/03.png)
+[/grid]

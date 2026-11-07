@@ -1,8 +1,8 @@
 ---
-title: "innertube, swim ring, 1girl, water, swimsuit, sun hat, navel…"
+title: "泳装少女"
 published: 2026-08-26
 updated: 2026-11-07
-description: "innertube, swim ring, 1girl, water, swimsuit, sun hat, navel…"
+description: "泳装少女"
 image: ""
 coverInPost: false
 tags: ["风格参考","Anima"]

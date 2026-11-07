@@ -13,8 +13,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 ---
 依旧anima-base1.0
 
----
-
+[grid]
 ![图片1](./images/21fHVT4/01.png)
-
 ![图片2](./images/21fHVT4/02.png)
+[/grid]
