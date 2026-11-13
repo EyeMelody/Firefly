@@ -44,8 +44,8 @@ export type MusicPlayerConfig = {
 		playlist?: Array<{
 			name: string; // 歌曲名称
 			artist: string; // 艺术家
-			url: string; // 音乐文件路径（相对于 public 目录）
-			cover?: string; // 封面图片路径（相对于 public 目录）
+			url: string; // 音乐文件路径：支持 /public 相对路径或完整 URL
+			cover?: string; // 封面图片路径：支持 /public 相对路径或完整 URL
 			lrc?: string; // 歌词内容，支持 LRC 格式
 		}>;
 	};
