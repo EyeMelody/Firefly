@@ -1,10 +1,12 @@
 {
-	// Cloudflare Pages 项目名称
+	// Cloudflare Workers 项目名称
 	"name": "firefly",
 	// 兼容日期（Cloudflare 官方建议更新为配置当天）
 	"compatibility_date": "2026-11-11",
 	// Node.js 兼容标志
 	"compatibility_flags": ["nodejs_compat"],
-	// Cloudflare Pages 静态资源输出目录（Astro 构建产物）
-	"pages_build_output_dir": "./dist"
+	// Workers 静态资源目录（Astro 构建产物，供 `wrangler deploy` 上传）
+	"assets": {
+		"directory": "./dist"
+	}
 }
