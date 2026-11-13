@@ -3,7 +3,7 @@ title: "AI图背景糊成一团"
 published: 2026-10-16
 updated: 2026-11-07
 description: "AI图背景糊成一团"
-image: "./images/21xc8Ax/01.png"
+image: "https://r2.eyemelody.top/ai-art/21xc8Ax/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -16,5 +16,5 @@ AI图背景老是糊成一团，尤其人物特写的时候。后来发现把背
 图片来源：
 
 [grid]
-![图片1](./images/21xc8Ax/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21xc8Ax/01.png)
 [/grid]

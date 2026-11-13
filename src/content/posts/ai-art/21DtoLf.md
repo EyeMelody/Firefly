@@ -3,7 +3,7 @@ title: "MOSS测试"
 published: 2026-10-19
 updated: 2026-11-07
 description: "MOSS测试"
-image: "./images/21DtoLf/01.png"
+image: "https://r2.eyemelody.top/ai-art/21DtoLf/01.png"
 coverInPost: false
 tags: ["风格参考","MOSS","GPT Image"]
 category: "AI绘图"
@@ -14,7 +14,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 算是对MOSS的一些测试，虽然第三张是GPT画的。
 
 [grid]
-![图片1](./images/21DtoLf/01.png)
-![图片2](./images/21DtoLf/02.png)
-![图片3](./images/21DtoLf/03.png)
+![图片1](https://r2.eyemelody.top/ai-art/21DtoLf/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/21DtoLf/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/21DtoLf/03.png)
 [/grid]

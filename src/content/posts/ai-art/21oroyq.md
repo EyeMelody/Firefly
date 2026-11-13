@@ -3,7 +3,7 @@ title: "依旧MyGO女团，最近好热啊🥵"
 published: 2026-06-13
 updated: 2026-11-07
 description: "依旧MyGO女团，最近好热啊🥵"
-image: "./images/21oroyq/01.png"
+image: "https://r2.eyemelody.top/ai-art/21oroyq/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -24,13 +24,13 @@ masterpiece, best quality, excellent, year 2026, newest, score_9, ultra detailed
 有用画师lora，可以搜kieed
 
 [grid]
-![图片1](./images/21oroyq/01.png)
-![图片2](./images/21oroyq/02.png)
-![图片3](./images/21oroyq/03.png)
-![图片4](./images/21oroyq/04.png)
-![图片5](./images/21oroyq/05.png)
-![图片6](./images/21oroyq/06.png)
-![图片7](./images/21oroyq/07.png)
-![图片8](./images/21oroyq/08.png)
-![图片9](./images/21oroyq/09.png)
+![图片1](https://r2.eyemelody.top/ai-art/21oroyq/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/21oroyq/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/21oroyq/03.png)
+![图片4](https://r2.eyemelody.top/ai-art/21oroyq/04.png)
+![图片5](https://r2.eyemelody.top/ai-art/21oroyq/05.png)
+![图片6](https://r2.eyemelody.top/ai-art/21oroyq/06.png)
+![图片7](https://r2.eyemelody.top/ai-art/21oroyq/07.png)
+![图片8](https://r2.eyemelody.top/ai-art/21oroyq/08.png)
+![图片9](https://r2.eyemelody.top/ai-art/21oroyq/09.png)
 [/grid]

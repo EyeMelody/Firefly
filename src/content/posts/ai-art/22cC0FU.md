@@ -3,7 +3,7 @@ title: "图一网易云找的一个专辑封面"
 published: 2026-08-02
 updated: 2026-11-07
 description: "图一网易云找的一个专辑封面"
-image: "./images/22cC0FU/01.jpg"
+image: "https://r2.eyemelody.top/ai-art/22cC0FU/01.jpg"
 coverInPost: false
 tags: ["风格参考","Image2","SDXL"]
 category: "AI绘图"
@@ -20,6 +20,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 如果有大佬能指点迷津应该如何用webui解决这个问题，感激不尽
 
 [grid]
-![图片1](./images/22cC0FU/01.jpg)
-![图片2](./images/22cC0FU/02.png)
+![图片1](https://r2.eyemelody.top/ai-art/22cC0FU/01.jpg)
+![图片2](https://r2.eyemelody.top/ai-art/22cC0FU/02.png)
 [/grid]

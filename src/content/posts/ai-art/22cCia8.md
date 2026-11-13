@@ -3,7 +3,7 @@ title: "ai进化太快了"
 published: 2026-07-08
 updated: 2026-11-07
 description: "ai进化太快了"
-image: "./images/22cCia8/01.png"
+image: "https://r2.eyemelody.top/ai-art/22cCia8/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -16,6 +16,6 @@ ai进化的还是太快了，一个今天的一个23年初的
 kita酱🤤🤤🤤嘿嘿kita酱
 
 [grid]
-![图片1](./images/22cCia8/01.png)
-![图片2](./images/22cCia8/02.png)
+![图片1](https://r2.eyemelody.top/ai-art/22cCia8/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/22cCia8/02.png)
 [/grid]

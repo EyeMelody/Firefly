@@ -3,7 +3,7 @@ title: "马斯克画质"
 published: 2026-07-29
 updated: 2026-11-07
 description: "马斯克画质"
-image: "./images/218ozcH/01.png"
+image: "https://r2.eyemelody.top/ai-art/218ozcH/01.png"
 coverInPost: false
 tags: ["风格参考","SDXL"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 附一张马斯克画质（显卡跑爆了也没能高清，场景大了sdxl不行了）
 
 [grid]
-![图片1](./images/218ozcH/01.png)
-![图片2](./images/218ozcH/02.png)
+![图片1](https://r2.eyemelody.top/ai-art/218ozcH/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/218ozcH/02.png)
 [/grid]

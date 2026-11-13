@@ -3,7 +3,7 @@ title: "来点车万。"
 published: 2026-09-02
 updated: 2026-11-07
 description: "来点车万。"
-image: "./images/21JOyYj/01.png"
+image: "https://r2.eyemelody.top/ai-art/21JOyYj/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -24,5 +24,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 若有朝一日，我自她生命中消失，你可想见，妹红会何等恐惧迷惘、歇斯底里，呼唤我重现？她早已注定，再也离不开我。自然，我亦选择了她。今时今日，乃至未来，「蓬莱山辉夜」便是她的一切。
 
 [grid]
-![图片1](./images/21JOyYj/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21JOyYj/01.png)
 [/grid]

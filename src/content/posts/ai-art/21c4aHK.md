@@ -3,7 +3,7 @@ title: "新模型练手ing _(:зゝ∠)_"
 published: 2026-06-07
 updated: 2026-11-07
 description: "新模型练手ing _(:зゝ∠)_"
-image: "./images/21c4aHK/01.jpg"
+image: "https://r2.eyemelody.top/ai-art/21c4aHK/01.jpg"
 coverInPost: false
 tags: ["风格参考","Anima","SDXL"]
 category: "AI绘图"
@@ -22,10 +22,10 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 Extra · 忆秋Ver.2上面这张是照着Lycoris的作者给的效果图改的，原Tag请自行查询 _(:зゝ∠)_
 
 [grid]
-![图片1](./images/21c4aHK/01.jpg)
-![图片2](./images/21c4aHK/02.jpg)
-![图片3](./images/21c4aHK/03.jpg)
-![图片4](./images/21c4aHK/04.jpg)
-![图片5](./images/21c4aHK/05.jpg)
-![图片6](./images/21c4aHK/06.jpg)
+![图片1](https://r2.eyemelody.top/ai-art/21c4aHK/01.jpg)
+![图片2](https://r2.eyemelody.top/ai-art/21c4aHK/02.jpg)
+![图片3](https://r2.eyemelody.top/ai-art/21c4aHK/03.jpg)
+![图片4](https://r2.eyemelody.top/ai-art/21c4aHK/04.jpg)
+![图片5](https://r2.eyemelody.top/ai-art/21c4aHK/05.jpg)
+![图片6](https://r2.eyemelody.top/ai-art/21c4aHK/06.jpg)
 [/grid]

@@ -3,7 +3,7 @@ title: "就这样吧，还是用sdxl生成的更有感觉"
 published: 2026-08-03
 updated: 2026-11-07
 description: "就这样吧，还是用sdxl生成的更有感觉"
-image: "./images/21bUNHC/01.png"
+image: "https://r2.eyemelody.top/ai-art/21bUNHC/01.png"
 coverInPost: false
 tags: ["风格参考","SDXL"]
 category: "AI绘图"
@@ -16,7 +16,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 图二图三是文生图waiillustrous v17 sdxl
 
 [grid]
-![图片1](./images/21bUNHC/01.png)
-![图片2](./images/21bUNHC/02.png)
-![图片3](./images/21bUNHC/03.png)
+![图片1](https://r2.eyemelody.top/ai-art/21bUNHC/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/21bUNHC/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/21bUNHC/03.png)
 [/grid]

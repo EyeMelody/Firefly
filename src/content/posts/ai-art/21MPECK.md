@@ -3,7 +3,7 @@ title: "MGWR: M87"
 published: 2026-10-23
 updated: 2026-11-07
 description: "MGWR: M87"
-image: "./images/21MPECK/01.png"
+image: "https://r2.eyemelody.top/ai-art/21MPECK/01.png"
 coverInPost: false
 tags: ["风格参考","Krea 2"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 《MGWR: M87》这个lora也很不错。虽然不是二次元lora，但是在二次元上也有不错的效果
 
 [grid]
-![图片1](./images/21MPECK/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21MPECK/01.png)
 [/grid]

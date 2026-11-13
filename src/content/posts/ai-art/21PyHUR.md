@@ -3,7 +3,7 @@ title: "masterpiece"
 published: 2026-06-24
 updated: 2026-11-07
 description: "masterpiece"
-image: "./images/21PyHUR/01.png"
+image: "https://r2.eyemelody.top/ai-art/21PyHUR/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -18,5 +18,5 @@ A breathtaking, highly atmospheric painterly anime-style illustration of a coupl
 dynamic angle, dramatic lighting, narrative storytelling, ultra high resolution, soft lighting, perfect face, high-res illustration, soft brush aesthetic, smooth finish, professional quality,  `<lora:Ying Yi v1:1>` @Ying Yi
 
 [grid]
-![图片1](./images/21PyHUR/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21PyHUR/01.png)
 [/grid]

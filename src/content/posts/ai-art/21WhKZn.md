@@ -3,7 +3,7 @@ title: "再更一张"
 published: 2026-08-22
 updated: 2026-11-07
 description: "再更一张"
-image: "./images/21WhKZn/01.png"
+image: "https://r2.eyemelody.top/ai-art/21WhKZn/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 再更一张，建议频道能加个关注键，这样我就能关注大佬了
 
 [grid]
-![图片1](./images/21WhKZn/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21WhKZn/01.png)
 [/grid]

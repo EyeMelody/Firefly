@@ -3,7 +3,7 @@ title: "分享自己的oc"
 published: 2026-07-05
 updated: 2026-11-07
 description: "分享自己的oc"
-image: "./images/21jsyhb/01.png"
+image: "https://r2.eyemelody.top/ai-art/21jsyhb/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 终于可以发图了，分享一下自己的oc吧，模型是anima
 
 [grid]
-![图片1](./images/21jsyhb/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21jsyhb/01.png)
 [/grid]

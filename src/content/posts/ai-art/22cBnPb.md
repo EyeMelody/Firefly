@@ -3,7 +3,7 @@ title: "朋友的角色"
 published: 2026-09-10
 updated: 2026-11-07
 description: "朋友的角色"
-image: "./images/22cBnPb/01.png"
+image: "https://r2.eyemelody.top/ai-art/22cBnPb/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,11 +14,11 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 依旧跑跑朋友的角色，19朋友给角色主播写构图🍞🍞
 
 [grid]
-![图片1](./images/22cBnPb/01.png)
-![图片2](./images/22cBnPb/02.png)
-![图片3](./images/22cBnPb/03.png)
-![图片4](./images/22cBnPb/04.png)
-![图片5](./images/22cBnPb/05.png)
-![图片6](./images/22cBnPb/06.png)
-![图片7](./images/22cBnPb/07.png)
+![图片1](https://r2.eyemelody.top/ai-art/22cBnPb/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/22cBnPb/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/22cBnPb/03.png)
+![图片4](https://r2.eyemelody.top/ai-art/22cBnPb/04.png)
+![图片5](https://r2.eyemelody.top/ai-art/22cBnPb/05.png)
+![图片6](https://r2.eyemelody.top/ai-art/22cBnPb/06.png)
+![图片7](https://r2.eyemelody.top/ai-art/22cBnPb/07.png)
 [/grid]

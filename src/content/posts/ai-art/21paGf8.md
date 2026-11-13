@@ -3,7 +3,7 @@ title: "天空节缪缪"
 published: 2026-09-06
 updated: 2026-11-07
 description: "天空节缪缪"
-image: "./images/21paGf8/01.png"
+image: "https://r2.eyemelody.top/ai-art/21paGf8/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 还就那个Googie建筑＋复古未来主义＋原子朋克
 
 [grid]
-![图片1](./images/21paGf8/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21paGf8/01.png)
 [/grid]

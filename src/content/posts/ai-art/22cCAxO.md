@@ -3,7 +3,7 @@ title: "等到时空破碎 山川成灰"
 published: 2026-02-12
 updated: 2026-11-07
 description: "等到时空破碎 山川成灰"
-image: "./images/22cCAxO/01.png"
+image: "https://r2.eyemelody.top/ai-art/22cCAxO/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -22,11 +22,11 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 走遍天地恢恢 与你自由飞
 
 [grid]
-![图片1](./images/22cCAxO/01.png)
-![图片2](./images/22cCAxO/02.png)
-![图片3](./images/22cCAxO/03.png)
-![图片4](./images/22cCAxO/04.png)
-![图片5](./images/22cCAxO/05.png)
-![图片6](./images/22cCAxO/06.png)
-![图片7](./images/22cCAxO/07.png)
+![图片1](https://r2.eyemelody.top/ai-art/22cCAxO/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/22cCAxO/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/22cCAxO/03.png)
+![图片4](https://r2.eyemelody.top/ai-art/22cCAxO/04.png)
+![图片5](https://r2.eyemelody.top/ai-art/22cCAxO/05.png)
+![图片6](https://r2.eyemelody.top/ai-art/22cCAxO/06.png)
+![图片7](https://r2.eyemelody.top/ai-art/22cCAxO/07.png)
 [/grid]

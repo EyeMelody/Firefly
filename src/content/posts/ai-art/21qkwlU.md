@@ -3,7 +3,7 @@ title: "沃唱歌 原版和手修调色版本"
 published: 2026-08-27
 updated: 2026-11-07
 description: "沃唱歌 原版和手修调色版本"
-image: "./images/21qkwlU/01.png"
+image: "https://r2.eyemelody.top/ai-art/21qkwlU/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -16,6 +16,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 原版和手修调色版本
 
 [grid]
-![图片1](./images/21qkwlU/01.png)
-![图片2](./images/21qkwlU/02.png)
+![图片1](https://r2.eyemelody.top/ai-art/21qkwlU/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/21qkwlU/02.png)
 [/grid]

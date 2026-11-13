@@ -3,7 +3,7 @@ title: "来点车万"
 published: 2026-10-10
 updated: 2026-11-07
 description: "来点车万"
-image: "./images/21ixxbx/01.png"
+image: "https://r2.eyemelody.top/ai-art/21ixxbx/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -68,18 +68,18 @@ P13《采蘑菇的小女孩》：框架式，欧式卷草纹拱窗负责分区�
 P14《光》：纯粹玩平面和物理概念。三棱镜负形、白光入射、七彩色散，再用环形轨迹和混沌丝带组织画面。没别的。
 
 [grid]
-![图片1](./images/21ixxbx/01.png)
-![图片2](./images/21ixxbx/02.png)
-![图片3](./images/21ixxbx/03.png)
-![图片4](./images/21ixxbx/04.png)
-![图片5](./images/21ixxbx/05.png)
-![图片6](./images/21ixxbx/06.png)
-![图片7](./images/21ixxbx/07.png)
-![图片8](./images/21ixxbx/08.png)
-![图片9](./images/21ixxbx/09.png)
-![图片10](./images/21ixxbx/10.png)
-![图片11](./images/21ixxbx/11.png)
-![图片12](./images/21ixxbx/12.png)
-![图片13](./images/21ixxbx/13.png)
-![图片14](./images/21ixxbx/14.png)
+![图片1](https://r2.eyemelody.top/ai-art/21ixxbx/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/21ixxbx/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/21ixxbx/03.png)
+![图片4](https://r2.eyemelody.top/ai-art/21ixxbx/04.png)
+![图片5](https://r2.eyemelody.top/ai-art/21ixxbx/05.png)
+![图片6](https://r2.eyemelody.top/ai-art/21ixxbx/06.png)
+![图片7](https://r2.eyemelody.top/ai-art/21ixxbx/07.png)
+![图片8](https://r2.eyemelody.top/ai-art/21ixxbx/08.png)
+![图片9](https://r2.eyemelody.top/ai-art/21ixxbx/09.png)
+![图片10](https://r2.eyemelody.top/ai-art/21ixxbx/10.png)
+![图片11](https://r2.eyemelody.top/ai-art/21ixxbx/11.png)
+![图片12](https://r2.eyemelody.top/ai-art/21ixxbx/12.png)
+![图片13](https://r2.eyemelody.top/ai-art/21ixxbx/13.png)
+![图片14](https://r2.eyemelody.top/ai-art/21ixxbx/14.png)
 [/grid]

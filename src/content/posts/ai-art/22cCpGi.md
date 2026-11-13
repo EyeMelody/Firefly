@@ -3,7 +3,7 @@ title: "GGbond"
 published: 2026-06-26
 updated: 2026-11-07
 description: "GGbond"
-image: "./images/22cCpGi/01.jpg"
+image: "https://r2.eyemelody.top/ai-art/22cCpGi/01.jpg"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 可恶，这都不准发，那只能靠你了，GGbond！
 
 [grid]
-![图片1](./images/22cCpGi/01.jpg)
+![图片1](https://r2.eyemelody.top/ai-art/22cCpGi/01.jpg)
 [/grid]

@@ -3,7 +3,7 @@ title: "anima杂志画"
 published: 2026-06-25
 updated: 2026-11-07
 description: "anima杂志画"
-image: "./images/21TS6Bv/01.png"
+image: "https://r2.eyemelody.top/ai-art/21TS6Bv/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -22,5 +22,5 @@ fashion magazine cover, full body, walking pose, looking to side, studio backgro
 risograph print, posterized colors, halftone, clean graphic design
 
 [grid]
-![图片1](./images/21TS6Bv/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21TS6Bv/01.png)
 [/grid]

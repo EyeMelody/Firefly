@@ -3,7 +3,7 @@ title: "一堆图过不了审只能修图发咯"
 published: 2026-10-08
 updated: 2026-11-07
 description: "一堆图过不了审只能修图发咯"
-image: "./images/21fHVT4/01.png"
+image: "https://r2.eyemelody.top/ai-art/21fHVT4/01.png"
 coverInPost: false
 tags: ["风格参考","Krea 2","Anima"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 依旧anima-base1.0
 
 [grid]
-![图片1](./images/21fHVT4/01.png)
-![图片2](./images/21fHVT4/02.png)
+![图片1](https://r2.eyemelody.top/ai-art/21fHVT4/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/21fHVT4/02.png)
 [/grid]

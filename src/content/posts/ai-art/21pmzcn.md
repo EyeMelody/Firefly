@@ -3,7 +3,7 @@ title: "flux测试，精细度非常强"
 published: 2026-03-05
 updated: 2026-11-07
 description: "flux测试，精细度非常强"
-image: "./images/21pmzcn/01.png"
+image: "https://r2.eyemelody.top/ai-art/21pmzcn/01.png"
 coverInPost: false
 tags: ["风格参考","Flux","SDXL"]
 category: "AI绘图"
@@ -16,5 +16,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 这精度确实猛，以往SDXL直出常见的各种蹭线和模糊在这上面几乎不存在...
 
 [grid]
-![图片1](./images/21pmzcn/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21pmzcn/01.png)
 [/grid]

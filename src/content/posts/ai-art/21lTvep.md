@@ -3,7 +3,7 @@ title: "Yuigahama Yui"
 published: 2026-05-08
 updated: 2026-11-07
 description: "Yuigahama Yui"
-image: "./images/21lTvep/01.png"
+image: "https://r2.eyemelody.top/ai-art/21lTvep/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -18,5 +18,5 @@ long sleeves,  thighhighs, black thighhighs, standing, full body, japanese cloth
 {artist:fuzichoco},[[artist:ningen_mame]],artist:ciloranko, artist:yd，artist:noyu_(noyu23386566)
 
 [grid]
-![图片1](./images/21lTvep/01.png)
+![图片1](https://r2.eyemelody.top/ai-art/21lTvep/01.png)
 [/grid]

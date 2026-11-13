@@ -3,7 +3,7 @@ title: "塔露拉和阿米娅"
 published: 2026-11-02
 updated: 2026-11-07
 description: "塔露拉和阿米娅"
-image: "./images/22bBopv/01.png"
+image: "https://r2.eyemelody.top/ai-art/22bBopv/01.png"
 coverInPost: false
 tags: ["风格参考","MOSS","Krea 2"]
 category: "AI绘图"
@@ -14,8 +14,8 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 塔露拉和阿米娅回，不知道为啥moss我自己用着烧心，加lora效果也不行，最后还是回归krea2 但krea2认识的角色又少，可惜krea2不认识塔露拉只能拼特征
 
 [grid]
-![图片1](./images/22bBopv/01.png)
-![图片2](./images/22bBopv/02.png)
-![图片3](./images/22bBopv/03.png)
-![图片4](./images/22bBopv/04.png)
+![图片1](https://r2.eyemelody.top/ai-art/22bBopv/01.png)
+![图片2](https://r2.eyemelody.top/ai-art/22bBopv/02.png)
+![图片3](https://r2.eyemelody.top/ai-art/22bBopv/03.png)
+![图片4](https://r2.eyemelody.top/ai-art/22bBopv/04.png)
 [/grid]
