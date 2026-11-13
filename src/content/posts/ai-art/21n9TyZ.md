@@ -3,7 +3,7 @@ title: "Anima插画与牌框"
 published: 2026-10-11
 updated: 2026-11-07
 description: "Anima插画与牌框"
-image: "https://r2.eyemelody.top/ai-art/21n9TyZ/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21n9TyZ/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 Anima出的插画，GPT大人给的牌框，合起来还不错
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21n9TyZ/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21n9TyZ/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21n9TyZ/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21n9TyZ/02.png)
 [/grid]

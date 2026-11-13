@@ -3,7 +3,7 @@ title: "代发anima"
 published: 2026-09-25
 updated: 2026-11-07
 description: "代发anima"
-image: "https://r2.eyemelody.top/ai-art/21TSm4X/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21TSm4X/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -18,5 +18,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 模型:anima
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21TSm4X/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21TSm4X/01.png)
 [/grid]

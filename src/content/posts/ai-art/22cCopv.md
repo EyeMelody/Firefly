@@ -3,7 +3,7 @@ title: "_ 晴空"
 published: 2026-06-28
 updated: 2026-11-07
 description: "_ 晴空"
-image: "https://r2.eyemelody.top/ai-art/22cCopv/01.jpg"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cCopv/01.jpg"
 coverInPost: false
 tags: ["风格参考","Anima","SDXL"]
 category: "AI绘图"
@@ -42,8 +42,8 @@ Anima Highres/Aesthetic Boost 0.3
 Remacri 0.3
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cCopv/01.jpg)
-![图片2](https://r2.eyemelody.top/ai-art/22cCopv/02.jpg)
-![图片3](https://r2.eyemelody.top/ai-art/22cCopv/03.png)
-![图片4](https://r2.eyemelody.top/ai-art/22cCopv/04.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cCopv/01.jpg)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22cCopv/02.jpg)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/22cCopv/03.png)
+![图片4](https://r2.eyemelody.top/assets/images/ai-art/22cCopv/04.png)
 [/grid]

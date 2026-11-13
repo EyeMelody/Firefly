@@ -3,7 +3,7 @@ title: "krea2机能"
 published: 2026-07-25
 updated: 2026-11-07
 description: "krea2机能"
-image: "https://r2.eyemelody.top/ai-art/22cC7VN/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cC7VN/01.png"
 coverInPost: false
 tags: ["风格参考","Krea 2"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 依旧被krea2的恐怖机能吓到（turbo，原版会更好）
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cC7VN/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/22cC7VN/02.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cC7VN/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22cC7VN/02.jpg)
 [/grid]

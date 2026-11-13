@@ -3,7 +3,7 @@ title: "终于不懒了，随便写了一组"
 published: 2026-01-16
 updated: 2026-11-07
 description: "终于不懒了，随便写了一组"
-image: "https://r2.eyemelody.top/ai-art/21Ds5bE/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21Ds5bE/01.png"
 coverInPost: false
 tags: ["风格参考","Illustrious","Plant Milk Walnut"]
 category: "AI绘图"
@@ -26,7 +26,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 最后吐槽一下:虽然很久没玩，但是最后一张图怎么跑了快一个小时？！
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21Ds5bE/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21Ds5bE/02.png)
-![图片3](https://r2.eyemelody.top/ai-art/21Ds5bE/03.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21Ds5bE/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21Ds5bE/02.png)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/21Ds5bE/03.jpg)
 [/grid]

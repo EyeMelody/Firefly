@@ -3,7 +3,7 @@ title: "图被转发"
 published: 2026-07-31
 updated: 2026-11-07
 description: "图被转发"
-image: "https://r2.eyemelody.top/ai-art/22cC3rH/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cC3rH/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 看到自己跑出来的图被人拿去发了 居然有点被认可的感觉
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cC3rH/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/22cC3rH/02.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cC3rH/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22cC3rH/02.jpg)
 [/grid]

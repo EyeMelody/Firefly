@@ -3,7 +3,7 @@ title: "随机仙品"
 published: 2026-06-11
 updated: 2026-11-07
 description: "随机仙品"
-image: "https://r2.eyemelody.top/ai-art/22cCkIy/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cCkIy/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 哇，随机生成了一个仙品，再也生不出来了，连提示词都没填写，得抽时间生个Lora
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cCkIy/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cCkIy/01.png)
 [/grid]

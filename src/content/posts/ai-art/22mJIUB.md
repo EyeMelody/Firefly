@@ -3,7 +3,7 @@ title: "风格化提示词开源"
 published: 2026-11-07
 updated: 2026-11-12
 description: "风格化提示词开源"
-image: "https://r2.eyemelody.top/ai-art/22mJIUB/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22mJIUB/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 开源提示词
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22mJIUB/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/22mJIUB/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22mJIUB/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22mJIUB/02.png)
 [/grid]

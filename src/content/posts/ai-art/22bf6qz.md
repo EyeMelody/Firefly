@@ -3,7 +3,7 @@ title: "anima与gpt优化"
 published: 2026-06-20
 updated: 2026-11-07
 description: "anima与gpt优化"
-image: "https://r2.eyemelody.top/ai-art/22bf6qz/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22bf6qz/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 anima生成，交给gpt优化，如果想要以此为基础设定一个比较完善的角色，我该做些什么呢。
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22bf6qz/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22bf6qz/01.png)
 [/grid]

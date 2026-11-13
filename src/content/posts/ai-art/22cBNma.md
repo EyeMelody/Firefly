@@ -3,7 +3,7 @@ title: "市后烟"
 published: 2026-08-29
 updated: 2026-11-07
 description: "市后烟"
-image: "https://r2.eyemelody.top/ai-art/22cBNma/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cBNma/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 跑出来的几张里面，特征串的最少的一张了，寄
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cBNma/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cBNma/01.png)
 [/grid]

@@ -3,7 +3,7 @@ title: "gpt噪点分享"
 published: 2026-06-11
 updated: 2026-11-07
 description: "gpt噪点分享"
-image: "https://r2.eyemelody.top/ai-art/21jGkhZ/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21jGkhZ/01.png"
 coverInPost: false
 tags: ["风格参考","Nano Banana","GPT Image"]
 category: "AI绘图"
@@ -24,6 +24,6 @@ contrast, polished finish, clear subject, visually clean composition --no noise,
 harsh contrast, greasy highlights, plastic texture
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21jGkhZ/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21jGkhZ/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21jGkhZ/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21jGkhZ/02.png)
 [/grid]

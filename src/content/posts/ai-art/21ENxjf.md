@@ -3,7 +3,7 @@ title: "AI平涂咒语"
 published: 2026-03-20
 updated: 2026-11-07
 description: "AI平涂咒语"
-image: "https://r2.eyemelody.top/ai-art/21ENxjf/01.jpg"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21ENxjf/01.jpg"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -18,5 +18,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 anime character sheet, official art, full-body portrait, pure white background, clean lineart, cel-shading, hard edge shadows, vibrant colors, anime face with large expressive eyes and detailed reflections, hair with ribbon highlights, two-tone shadows with pink skin shadows and cool-tone cloth shadows, style is classic anime cel-shading with vibrant colors
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21ENxjf/01.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21ENxjf/01.jpg)
 [/grid]

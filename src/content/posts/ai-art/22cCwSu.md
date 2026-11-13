@@ -3,7 +3,7 @@ title: "图一是老图"
 published: 2026-06-20
 updated: 2026-11-07
 description: "图一是老图"
-image: "https://r2.eyemelody.top/ai-art/22cCwSu/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cCwSu/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 图一是老图，如今又变强了变强的方法估计大家也用不了就不说了，因为我是webUi哒
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cCwSu/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/22cCwSu/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cCwSu/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22cCwSu/02.png)
 [/grid]

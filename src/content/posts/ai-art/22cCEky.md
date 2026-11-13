@@ -3,7 +3,7 @@ title: "banana做人设图是真好玩，爱玩。"
 published: 2025-12-03
 updated: 2026-11-07
 description: "banana做人设图是真好玩，爱玩。"
-image: "https://r2.eyemelody.top/ai-art/22cCEky/01.jpg"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cCEky/01.jpg"
 coverInPost: false
 tags: ["风格参考","Nano Banana"]
 category: "AI绘图"
@@ -14,7 +14,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 闭源之力，小子。
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cCEky/01.jpg)
-![图片2](https://r2.eyemelody.top/ai-art/22cCEky/02.jpg)
-![图片3](https://r2.eyemelody.top/ai-art/22cCEky/03.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cCEky/01.jpg)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22cCEky/02.jpg)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/22cCEky/03.jpg)
 [/grid]

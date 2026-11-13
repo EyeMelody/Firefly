@@ -3,7 +3,7 @@ title: "3060跑图"
 published: 2026-06-20
 updated: 2026-11-07
 description: "3060跑图"
-image: "https://r2.eyemelody.top/ai-art/22aCGbG/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22aCGbG/01.png"
 coverInPost: false
 tags: ["风格参考","GPT Image"]
 category: "AI绘图"
@@ -18,5 +18,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 明明是90度的侧脸，却依旧有两个眉毛
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22aCGbG/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22aCGbG/01.png)
 [/grid]

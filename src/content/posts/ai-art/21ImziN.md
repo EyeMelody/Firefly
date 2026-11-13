@@ -3,7 +3,7 @@ title: "gpt噪点提示词"
 published: 2026-09-13
 updated: 2026-11-07
 description: "gpt噪点提示词"
-image: "https://r2.eyemelody.top/ai-art/21ImziN/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21ImziN/01.png"
 coverInPost: false
 tags: ["风格参考","Nano Banana"]
 category: "AI绘图"
@@ -18,6 +18,6 @@ Remove the noise and high-frequency details from the image. Keep all the lines, 
 前后对比：
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21ImziN/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21ImziN/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21ImziN/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21ImziN/02.png)
 [/grid]

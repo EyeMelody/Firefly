@@ -3,7 +3,7 @@ title: "anima-base-1.0"
 published: 2026-10-14
 updated: 2026-11-07
 description: "anima-base-1.0"
-image: "https://r2.eyemelody.top/ai-art/21sHWGf/01.jpg"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21sHWGf/01.jpg"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -16,6 +16,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 依旧anima-base-1.0
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21sHWGf/01.jpg)
-![图片2](https://r2.eyemelody.top/ai-art/21sHWGf/02.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21sHWGf/01.jpg)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21sHWGf/02.jpg)
 [/grid]

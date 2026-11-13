@@ -3,7 +3,7 @@ title: "最近炼的丹"
 published: 2026-11-05
 updated: 2026-11-12
 description: "最近炼的丹"
-image: "https://r2.eyemelody.top/ai-art/22fQhJ5/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22fQhJ5/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 最近炼的丹，有人认识这两个各是什么番里的女主吗
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22fQhJ5/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/22fQhJ5/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22fQhJ5/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/22fQhJ5/02.png)
 [/grid]

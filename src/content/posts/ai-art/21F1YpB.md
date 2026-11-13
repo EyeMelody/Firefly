@@ -3,7 +3,7 @@ title: "画风组合词"
 published: 2026-08-18
 updated: 2026-11-07
 description: "画风组合词"
-image: "https://r2.eyemelody.top/ai-art/21F1YpB/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21F1YpB/01.png"
 coverInPost: false
 tags: ["风格参考","Anima","SDXL"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 研究tag的时候意外的发现了一套很有意思的组合词，有点像osu mania的俄罗斯大叠曲绘画风
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21F1YpB/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21F1YpB/01.png)
 [/grid]

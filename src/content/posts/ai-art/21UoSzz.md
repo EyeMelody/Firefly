@@ -3,7 +3,7 @@ title: "开源分享，最近跑的四季，杂志封面主题"
 published: 2026-10-26
 updated: 2026-11-07
 description: "开源分享，最近跑的四季，杂志封面主题"
-image: "https://r2.eyemelody.top/ai-art/21UoSzz/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21UoSzz/01.png"
 coverInPost: false
 tags: ["风格参考","MOSS"]
 category: "AI绘图"
@@ -26,6 +26,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 Spring panel, three-quarter body fashion portrait of castorice \(honkai: star rail\), facing the camera in a lilac garden, a soft closed-mouth smile with lips together and no teeth, both eyes open, only basic canonical features with no extra jewelry and no head ornament; a white cotton midi dress with lavender butterfly embroidery and a square neckline, a lavender cropped cardigan with pearl buttons, white tights, lavender Mary Janes, a small butterfly shoulder bag, a small bunch of lilacs; a spring white, lavender and lilac color story, soft morning light, lilac blossoms; face clearly visible, hands and feet fully inside the panel, centered in the first vertical panel, soft girlish and effortlessly chic.
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21UoSzz/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21UoSzz/02.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21UoSzz/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21UoSzz/02.png)
 [/grid]

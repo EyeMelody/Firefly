@@ -3,7 +3,7 @@ title: "像素背景图"
 published: 2026-10-05
 updated: 2026-11-07
 description: "像素背景图"
-image: "https://r2.eyemelody.top/ai-art/215WSma/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/215WSma/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 发一个前几天跑的图片，背景是找素材后用PS扣出来的像素
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/215WSma/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/215WSma/01.png)
 [/grid]

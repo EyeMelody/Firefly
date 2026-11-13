@@ -3,7 +3,7 @@ title: "来点用Image2这么久的碎碎念。"
 published: 2026-10-27
 updated: 2026-11-07
 description: "来点用Image2这么久的碎碎念。"
-image: "https://r2.eyemelody.top/ai-art/21XskUG/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21XskUG/01.png"
 coverInPost: false
 tags: ["风格参考","Image2","豆包","Seedream"]
 category: "AI绘图"
@@ -164,20 +164,20 @@ LoRA真正好用的地方，不只是模仿某个画师，而是提前固化了�
 所以很多时候，和模型拔河并不是创作者在钻牛角尖。而是在守住一件很简单的东西：自己的表达主权。
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21XskUG/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21XskUG/02.png)
-![图片3](https://r2.eyemelody.top/ai-art/21XskUG/03.png)
-![图片4](https://r2.eyemelody.top/ai-art/21XskUG/04.png)
-![图片5](https://r2.eyemelody.top/ai-art/21XskUG/05.png)
-![图片6](https://r2.eyemelody.top/ai-art/21XskUG/06.png)
-![图片7](https://r2.eyemelody.top/ai-art/21XskUG/07.png)
-![图片8](https://r2.eyemelody.top/ai-art/21XskUG/08.png)
-![图片9](https://r2.eyemelody.top/ai-art/21XskUG/09.png)
-![图片10](https://r2.eyemelody.top/ai-art/21XskUG/10.png)
-![图片11](https://r2.eyemelody.top/ai-art/21XskUG/11.png)
-![图片12](https://r2.eyemelody.top/ai-art/21XskUG/12.png)
-![图片13](https://r2.eyemelody.top/ai-art/21XskUG/13.png)
-![图片14](https://r2.eyemelody.top/ai-art/21XskUG/14.png)
-![图片15](https://r2.eyemelody.top/ai-art/21XskUG/15.png)
-![图片16](https://r2.eyemelody.top/ai-art/21XskUG/16.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/02.png)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/03.png)
+![图片4](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/04.png)
+![图片5](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/05.png)
+![图片6](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/06.png)
+![图片7](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/07.png)
+![图片8](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/08.png)
+![图片9](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/09.png)
+![图片10](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/10.png)
+![图片11](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/11.png)
+![图片12](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/12.png)
+![图片13](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/13.png)
+![图片14](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/14.png)
+![图片15](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/15.png)
+![图片16](https://r2.eyemelody.top/assets/images/ai-art/21XskUG/16.png)
 [/grid]

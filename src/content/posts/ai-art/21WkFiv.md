@@ -3,7 +3,7 @@ title: "灵感枯竭"
 published: 2026-10-27
 updated: 2026-11-07
 description: "灵感枯竭"
-image: "https://r2.eyemelody.top/ai-art/21WkFiv/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21WkFiv/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,8 +14,8 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 灵感枯竭，你们快跑啊，你们跑完图我就能偷了🧐
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21WkFiv/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21WkFiv/02.png)
-![图片3](https://r2.eyemelody.top/ai-art/21WkFiv/03.png)
-![图片4](https://r2.eyemelody.top/ai-art/21WkFiv/04.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21WkFiv/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21WkFiv/02.png)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/21WkFiv/03.png)
+![图片4](https://r2.eyemelody.top/assets/images/ai-art/21WkFiv/04.png)
 [/grid]

@@ -3,7 +3,7 @@ title: "GPT 日系粗糙数字涂鸦风提示词"
 published: 2026-10-31
 updated: 2026-11-12
 description: "GPT 日系粗糙数字涂鸦风提示词"
-image: "https://r2.eyemelody.top/ai-art/xh-a38772bdcdb0/01.jpg"
+image: "https://r2.eyemelody.top/assets/images/ai-art/xh-a38772bdcdb0/01.jpg"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -148,8 +148,8 @@ sourceLink: "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_src
 最终效果应该像一张快速画出来的可爱拉姆涂鸦，而不是一幅刻意模仿草稿的精致插画。
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/xh-a38772bdcdb0/01.jpg)
-![图片2](https://r2.eyemelody.top/ai-art/xh-a38772bdcdb0/02.jpg)
-![图片3](https://r2.eyemelody.top/ai-art/xh-a38772bdcdb0/03.jpg)
-![图片4](https://r2.eyemelody.top/ai-art/xh-a38772bdcdb0/04.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/xh-a38772bdcdb0/01.jpg)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/xh-a38772bdcdb0/02.jpg)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/xh-a38772bdcdb0/03.jpg)
+![图片4](https://r2.eyemelody.top/assets/images/ai-art/xh-a38772bdcdb0/04.jpg)
 [/grid]

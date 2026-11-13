@@ -3,7 +3,7 @@ title: "大佬的沃配置"
 published: 2026-08-28
 updated: 2026-11-07
 description: "大佬的沃配置"
-image: "https://r2.eyemelody.top/ai-art/22cBMyV/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/22cBMyV/01.png"
 coverInPost: false
 tags: ["风格参考","Plant Milk Walnut"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 大佬的沃那个配置确实不错，直接拿过来不加角色lora，也抽出来一张挺好看好看的。感谢
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/22cBMyV/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/22cBMyV/01.png)
 [/grid]

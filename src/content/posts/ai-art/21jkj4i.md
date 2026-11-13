@@ -3,7 +3,7 @@ title: "一纸申愿，千山鹤雪"
 published: 2026-10-10
 updated: 2026-11-07
 description: "一纸申愿，千山鹤雪"
-image: "https://r2.eyemelody.top/ai-art/21jkj4i/01.jpg"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21jkj4i/01.jpg"
 coverInPost: false
 tags: ["风格参考","Krea 2"]
 category: "AI绘图"
@@ -14,6 +14,6 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 甘于无言，雨落眉间
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21jkj4i/01.jpg)
-![图片2](https://r2.eyemelody.top/ai-art/21jkj4i/02.jpg)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21jkj4i/01.jpg)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21jkj4i/02.jpg)
 [/grid]

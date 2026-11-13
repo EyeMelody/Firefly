@@ -3,7 +3,7 @@ title: "MOSS模型测试"
 published: 2026-10-19
 updated: 2026-11-07
 description: "MOSS模型测试"
-image: "https://r2.eyemelody.top/ai-art/21DSH1Z/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/01.png"
 coverInPost: false
 tags: ["风格参考","MOSS","Krea 2"]
 category: "AI绘图"
@@ -18,10 +18,10 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 以及，二次元究竟有多少爱丽丝？“200候选结果”
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21DSH1Z/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21DSH1Z/02.png)
-![图片3](https://r2.eyemelody.top/ai-art/21DSH1Z/03.png)
-![图片4](https://r2.eyemelody.top/ai-art/21DSH1Z/04.png)
-![图片5](https://r2.eyemelody.top/ai-art/21DSH1Z/05.png)
-![图片6](https://r2.eyemelody.top/ai-art/21DSH1Z/06.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/02.png)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/03.png)
+![图片4](https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/04.png)
+![图片5](https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/05.png)
+![图片6](https://r2.eyemelody.top/assets/images/ai-art/21DSH1Z/06.png)
 [/grid]

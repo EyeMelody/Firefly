@@ -3,7 +3,7 @@ title: "2.5D图"
 published: 2026-07-13
 updated: 2026-11-07
 description: "2.5D图"
-image: "https://r2.eyemelody.top/ai-art/21GlXN1/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21GlXN1/01.png"
 coverInPost: false
 tags: ["风格参考","Anima"]
 category: "AI绘图"
@@ -14,5 +14,5 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 一直想做2.5D的图，但是懒一直没学，现在加上lora可以直接跑出来了
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21GlXN1/01.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21GlXN1/01.png)
 [/grid]

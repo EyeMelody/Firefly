@@ -3,7 +3,7 @@ title: "沃雅妮莎"
 published: 2026-08-20
 updated: 2026-11-07
 description: "沃雅妮莎"
-image: "https://r2.eyemelody.top/ai-art/21MYg9C/01.png"
+image: "https://r2.eyemelody.top/assets/images/ai-art/21MYg9C/01.png"
 coverInPost: false
 tags: ["风格参考"]
 category: "AI绘图"
@@ -14,7 +14,7 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 唉，迭代了四个版本，终于炼出了让自己满意的沃雅妮莎
 
 [grid]
-![图片1](https://r2.eyemelody.top/ai-art/21MYg9C/01.png)
-![图片2](https://r2.eyemelody.top/ai-art/21MYg9C/02.png)
-![图片3](https://r2.eyemelody.top/ai-art/21MYg9C/03.png)
+![图片1](https://r2.eyemelody.top/assets/images/ai-art/21MYg9C/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/ai-art/21MYg9C/02.png)
+![图片3](https://r2.eyemelody.top/assets/images/ai-art/21MYg9C/03.png)
 [/grid]
