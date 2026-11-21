@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "GPT image 2.0小笔记•3"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21gy8rV/01.png"
 coverInPost: false
-tags: ["风格参考","Image2","Nano Banana","Flux"]
+tags: ["风格参考","Image2","Nano Banana","Flux","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "ᮨ໌້公主殿下小吃家"

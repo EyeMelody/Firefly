@@ -5,7 +5,7 @@ updated: 2026-11-12
 description: "GPT 日系粗糙数字涂鸦风提示词"
 image: "https://r2.eyemelody.top/assets/images/ai-art/xh-a38772bdcdb0/01.jpg"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","小黑盒"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "花鳥風栎"

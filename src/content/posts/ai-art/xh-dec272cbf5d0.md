@@ -5,7 +5,7 @@ updated: 2026-11-12
 description: "日系萌系涂鸦提示词"
 image: "https://r2.eyemelody.top/assets/images/ai-art/xh-dec272cbf5d0/01.jpg"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","小黑盒"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "1Mol铱"
