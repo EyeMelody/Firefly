@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "请选择你的ai"
 image: "https://r2.eyemelody.top/assets/images/ai-art/22cCitS/01.jpg"
 coverInPost: false
-tags: ["风格参考","Grok"]
+tags: ["风格参考","Grok","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "工 具 人 (Within)"

@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "沃唱歌 原版和手修调色版本"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21qkwlU/01.png"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "鸣鸾"

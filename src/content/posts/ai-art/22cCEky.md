@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "banana做人设图是真好玩，爱玩。"
 image: "https://r2.eyemelody.top/assets/images/ai-art/22cCEky/01.jpg"
 coverInPost: false
-tags: ["风格参考","Nano Banana"]
+tags: ["风格参考","Nano Banana","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "穷凶极饿才羽桃"

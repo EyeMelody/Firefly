@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "大比例图测试"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21X9RrJ/01.png"
 coverInPost: false
-tags: ["风格参考","Krea 2"]
+tags: ["风格参考","Krea 2","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "桃乃木香栢奈"

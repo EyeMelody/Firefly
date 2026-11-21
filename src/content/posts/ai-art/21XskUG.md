@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "来点用Image2这么久的碎碎念。"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21XskUG/01.png"
 coverInPost: false
-tags: ["风格参考","Image2","豆包","Seedream"]
+tags: ["风格参考","Image2","豆包","Seedream","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "石乐志"

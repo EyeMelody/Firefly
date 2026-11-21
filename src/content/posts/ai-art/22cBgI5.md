@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "*点头*"
 image: "https://r2.eyemelody.top/assets/images/ai-art/22cBgI5/01.png"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "Aesthoautumn"

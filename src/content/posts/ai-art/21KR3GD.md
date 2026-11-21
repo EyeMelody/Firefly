@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "｡◕ᴗ◕｡"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21KR3GD/01.png"
 coverInPost: false
-tags: ["风格参考","WAI-illustrious-SDXL"]
+tags: ["风格参考","WAI-illustrious-SDXL","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "茹梦"

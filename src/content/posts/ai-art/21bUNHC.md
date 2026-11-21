@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "就这样吧，还是用sdxl生成的更有感觉"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21bUNHC/01.png"
 coverInPost: false
-tags: ["风格参考","SDXL"]
+tags: ["风格参考","SDXL","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "鹤望兰173"

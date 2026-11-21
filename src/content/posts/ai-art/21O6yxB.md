@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "试试最近感觉比较好看的卡片一样的风格？"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21O6yxB/01.png"
 coverInPost: false
-tags: ["风格参考","Krea 2","Anima"]
+tags: ["风格参考","Krea 2","Anima","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "九九"

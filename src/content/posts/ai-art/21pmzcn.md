@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "flux测试，精细度非常强"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21pmzcn/01.png"
 coverInPost: false
-tags: ["风格参考","Flux","SDXL"]
+tags: ["风格参考","Flux","SDXL","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "LegnaW"

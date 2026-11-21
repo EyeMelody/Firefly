@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "AI图背景糊成一团"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21xc8Ax/01.png"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "秋葉的甜品店助手"

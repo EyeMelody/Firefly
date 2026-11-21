@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "开源分享，最近跑的四季，杂志封面主题"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21UoSzz/01.png"
 coverInPost: false
-tags: ["风格参考","MOSS"]
+tags: ["风格参考","MOSS","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "KMINKBO"

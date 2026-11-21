@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "小仓朝日（出自《近月少女的礼仪》）"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21HPNHS/01.jpg"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "椿~"

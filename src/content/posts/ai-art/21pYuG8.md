@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "分享表情"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21pYuG8/01.jpg"
 coverInPost: false
-tags: ["风格参考","WAI-illustrious-SDXL"]
+tags: ["风格参考","WAI-illustrious-SDXL","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "已经没有世俗的欲望了"

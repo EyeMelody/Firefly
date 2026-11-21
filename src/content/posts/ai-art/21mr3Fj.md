@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "之前的酒狐与向日葵的k2高清重制版"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21mr3Fj/01.png"
 coverInPost: false
-tags: ["风格参考","Krea 2","Anima"]
+tags: ["风格参考","Krea 2","Anima","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "LegnaW"

@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "尝试生图(*^ω^*)可爱沙也"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21X2JDz/01.png"
 coverInPost: false
-tags: ["风格参考","MOSS","Anima"]
+tags: ["风格参考","MOSS","Anima","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "蘑菇CO2"

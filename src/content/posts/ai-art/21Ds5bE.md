@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "终于不懒了，随便写了一组"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21Ds5bE/01.png"
 coverInPost: false
-tags: ["风格参考","Illustrious","Plant Milk Walnut"]
+tags: ["风格参考","Illustrious","Plant Milk Walnut","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "qxkk"

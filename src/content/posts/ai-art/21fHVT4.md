@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "一堆图过不了审只能修图发咯"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21fHVT4/01.png"
 coverInPost: false
-tags: ["风格参考","Krea 2","Anima"]
+tags: ["风格参考","Krea 2","Anima","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "『Lyin』"

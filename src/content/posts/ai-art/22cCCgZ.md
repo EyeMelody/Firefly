@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "拿图的吱一声😅"
 image: "https://r2.eyemelody.top/assets/images/ai-art/22cCCgZ/01.jpg"
 coverInPost: false
-tags: ["风格参考"]
+tags: ["风格参考","腾讯频道","崩坏：星穹铁道"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "Silver wolf"

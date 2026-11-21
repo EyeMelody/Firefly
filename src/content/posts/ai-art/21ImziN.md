@@ -5,7 +5,7 @@ updated: 2026-11-07
 description: "gpt噪点提示词"
 image: "https://r2.eyemelody.top/assets/images/ai-art/21ImziN/01.png"
 coverInPost: false
-tags: ["风格参考","Nano Banana"]
+tags: ["风格参考","Nano Banana","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
 lang: "zh-CN"
 author: "花沢奈奈生"
