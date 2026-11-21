@@ -3,7 +3,7 @@ title: "愿师父保佑一路平安"
 published: 2026-11-14
 updated: 2026-11-16
 description: "愿师父保佑一路平安"
-image: "https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/01.png"
+image: "https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/01.png"
 coverInPost: false
 tags: ["风格参考","Krea 2","腾讯频道","秋葉的甜品店"]
 category: "AI绘图"
@@ -20,11 +20,11 @@ sourceLink: "https://pd.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=shar
 //首次尝试巨物感的图效果还算不错
 
 [grid]
-![图片1](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/01.png)
-![图片2](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/02.png)
-![图片3](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/03.png)
-![图片4](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/04.png)
-![图片5](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/05.png)
-![图片6](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/06.png)
-![图片7](https://r2.eyemelody.top/assets/images/ai-art/22EoeC1/07.png)
+![图片1](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/01.png)
+![图片2](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/02.png)
+![图片3](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/03.png)
+![图片4](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/04.png)
+![图片5](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/05.png)
+![图片6](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/06.png)
+![图片7](https://r2.eyemelody.top/assets/images/posts/ai-art/22EoeC1/07.png)
 [/grid]
