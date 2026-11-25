@@ -246,11 +246,12 @@ const minutes = remarkPluginFrontmatter.minutes;
             class="transition opacity-0 group-hover:opacity-100 scale-50 group-hover:scale-100 text-white text-5xl"
           />
         </div>
+        {/* 封面悬停时放大 5%，访客启用减少动态效果时保持原尺寸。 */}
         <CoverImage
           src={processedImage}
           basePath={getFileDirFromPath(entry.filePath || "")}
           alt={title}
-          class="w-full h-full transition-transform duration-300 group-hover:scale-110 group-active:scale-115"
+          class="w-full h-full motion-safe:transition-transform duration-300 motion-safe:group-hover:scale-105"
           preview={true}
           loading={loading}
           apiUrls={apiUrls}
