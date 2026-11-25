@@ -344,24 +344,31 @@ html.is-page-transitioning .banner-home-text-overlay {
     font-family: var(--font-banner-subtitle, inherit);
 }
 
-/* 首页横幅标题下方的链接图标行（半透明圆按钮） */
+/* GitHub 等社交链接共用半透明磨砂底，窄屏时按钮可换行。 */
 .banner-links {
+	align-self: center;
+	max-width: 100%;
+	flex-wrap: wrap;
+	gap: 0.25rem;
+	padding: 0.25rem;
+	border: 1px solid color-mix(in srgb, currentColor 28%, transparent);
+	border-radius: var(--radius-large);
+	color: var(--color-white);
+	background: color-mix(in srgb, var(--color-black) 42%, transparent);
+	backdrop-filter: blur(8px);
     animation: banner-fadeInUp 0.3s ease-out 0.5s both;
 }
 
+/* 各链接保留独立点击区域，内圆角与工具栏的内边距对齐。 */
 .banner-link {
     display: inline-flex;
     align-items: center;
     justify-content: center;
     width: 2.75rem;
     height: 2.75rem;
-    border-radius: 9999px;
-    color: rgba(255, 255, 255, 0.92);
-    background: rgba(255, 255, 255, 0.14);
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    transition: background-color 0.25s ease, color 0.25s ease, transform 0.2s ease;
+	border-radius: calc(var(--radius-large) - 0.25rem);
+	color: inherit;
+	transition: background-color 0.2s ease;
 }
 
 /* 图标跟随按钮颜色（SVG 默认 fill 为黑，需显式指定） */
@@ -369,10 +376,10 @@ html.is-page-transitioning .banner-home-text-overlay {
     fill: currentColor;
 }
 
-.banner-link:hover {
-    background: rgba(255, 255, 255, 0.26);
-    color: #fff;
-    transform: translateY(-2px) scale(1.05);
+/* 鼠标悬停和键盘聚焦时，仅提亮当前链接。 */
+.banner-link:hover,
+.banner-link:focus-visible {
+	background: color-mix(in srgb, currentColor 20%, transparent);
 }
 
 .banner-link-text {
