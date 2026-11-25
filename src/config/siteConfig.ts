@@ -266,13 +266,12 @@ export const siteConfig: SiteConfig = {
 		// Bangumi用户ID
 		userId: "915302",
 		// 数据模式：static=构建时获取，dynamic=客户端实时获取
-		// static 模式在构建时获取数据并静态渲染，部署后数据不更新
-		// dynamic 模式在浏览器中实时请求 API，始终显示最新数据
-		mode: "dynamic",
+		// static 模式在构建时获取数据并静态渲染，部署后数据不更新（访客无需连 API）
+		// dynamic 模式在浏览器中实时请求 API，始终显示最新数据（每个访客自己连 API）
+		mode: "static",
 		// Bangumi API 地址（需支持 CORS，dynamic 模式由浏览器直接请求）
-		// 注意：api.bangumi.pro 已 301 重定向到 api.bangumi.lat，
-		// 且该 301 响应不带 Access-Control-Allow-Origin，会被浏览器 CORS 拦截
-		apiUrl: "https://api.bangumi.lat",
+		// 官方 API：域名稳定、返回 Access-Control-Allow-Origin: *
+		apiUrl: "https://api.bgm.tv",
 		// 详情页地址（指向可读的条目页，而非返回 JSON 的 API 端点）
 		subjectBaseUrl: "https://bgm.tv/subject/",
 		// 条目类型排序，数组中的类型将按顺序优先展示
